@@ -28,5 +28,5 @@ substitutions:
     _FUNCTION_PROJECT : astahov-prod
     _FUNCTION_NAME    : my-nodejs-app
     _FUNCTION_REGION  : us-central1
-    _FUNCTION_RUNTIME : nodejs14
+    _FUNCTION_RUNTIME : nodejs20
     _ENTRY_POINT      : helloWorld
